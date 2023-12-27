@@ -1,0 +1,31 @@
+Fake Job Opening on LinkedIn Phishing Attempt
+Date: 12/24/23
+
+What Happened / What I Did: 
+
+1. I found a job opening on LinkedIn 
+ 1.1 Information Security Analysst Operational - Real EstateIntelligent Marketing 
+
+
+2. I applied for the job and attempted to connect with the job poster Megan Dorothy Lettwy 
+ 2.1 Person has 0 connections on LinkedIn 
+
+
+3. I received an Email shortly after applying from a Kimberly Jeremiah (kimberly.jeremiah55@mailscop.us) stating they had two openings one for day shift (9AM - 3PM) and one for night shift (3PM - 9PM).
+ 3.1 I replied stating I would like the day shift if possible. 
+
+ 3.2 The person quickly replied and asked me to follow a link to fill in information to obtain a Background Check / Credit Score report.
+
+
+4. I was already suspicious from the Job Poster having 0 connections and the email associated with the initial contact. 
+ 4.1 I became hyperly suspicious upon receiving the second message. 
+
+ 4.2 From there I proceeded to dig into the link provided and further check the email addresses. 
+
+ 4.3 The URL shown was " www.iCheckmyScores[.]com ", but upon hovering over the link it showed a URL of "starpacks[.]live"
+
+ 4.4 I tested the URL in the Browserling Sandbox which showed a blank page 
+
+ 4.5 From checking whois for the domain "MailsCop.us" is was shown to be only 92 days old and is based in Germany 
+
+5. I reported this as Phishing through Gmail and reported the job posting on LinkedIn also
