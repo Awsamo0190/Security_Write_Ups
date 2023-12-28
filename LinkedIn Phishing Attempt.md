@@ -23,7 +23,7 @@ What Happened / What I Did:
 
 4. I was already suspicious from the Job Poster having 0 connections and the email associated with the initial contact. 
  
- 4.1 I became hyperly suspicious upon receiving the second message. 
+ 4.1 I became even more suspicious upon receiving the second message. 
 
  4.2 From there I proceeded to dig into the link provided and further check the email addresses. 
 
